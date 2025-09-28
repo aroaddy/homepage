@@ -15,6 +15,8 @@ Allowed fields: `["vms", "lxc", "resources.cpu", "resources.mem"]`.
 
 You can set the optional `node` setting when you want to show metrics for a single node. By default it will show the average for the complete cluster.
 
+You may have parameters showing 0/0 or NaN. Go to your Proxmox API token then uncheck "Privilege Seperation"
+
 ```yaml
 widget:
   type: proxmox
