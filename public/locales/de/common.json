@@ -1086,8 +1086,8 @@
         "nextRenewingSubscription": "Nächste Zahlung"
     },
     "unraid": {
-        "STARTED": "Started",
-        "STOPPED": "Stopped",
+        "STARTED": "Gestartet",
+        "STOPPED": "Angehalten",
         "NEW_ARRAY": "New Array",
         "RECON_DISK": "Reconstructing Disk",
         "DISABLE_DISK": "Disk Disabled",
@@ -1104,15 +1104,20 @@
         "memoryAvailable": "Memory Available",
         "arrayUsed": "Array Used",
         "arrayFree": "Array Free",
-        "poolUsed": "{{pool}} Used",
-        "poolFree": "{{pool}} Free"
+        "poolUsed": "{{pool}} verwendet",
+        "poolFree": "{{pool}} frei"
     },
     "backrest": {
-        "num_plans": "Plans",
-        "num_success_30": "Successes",
-        "num_failure_30": "Failures",
+        "num_plans": "Pläne",
+        "num_success_30": "Erfolgreich",
+        "num_failure_30": "Fehlerhaft",
         "num_success_latest": "Succeeding",
         "num_failure_latest": "Failing",
         "bytes_added_30": "Bytes Added"
+    },
+    "yourspotify": {
+        "songs": "Titel",
+        "time": "Zeit",
+        "artists": "Künstler"
     }
 }
